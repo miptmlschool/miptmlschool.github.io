@@ -1,3 +1,3 @@
 # Сайт
 
-<a href="miptmlschool.github.io">Сайт Школы Машинного Обучения ФПМИ МФТИ</a>
+<a href="https://miptmlschool.github.io/">Сайт Школы Машинного Обучения ФПМИ МФТИ</a>
